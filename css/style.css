@@ -1,0 +1,43 @@
+body{
+background-color: rgb(49, 201, 150);
+padding:0%;
+margin:0%;
+}
+header{
+    background-color: bisque;
+    width:100%;
+    height:50px;
+    text-align:center;
+}
+nav{
+    background-color: rgb(165, 255, 75);
+    width:100%;
+    height:30px;
+    text-align:center;
+}
+aside{
+    background-color: rgb(172, 127, 214);
+    width:50%;
+    height:80%;
+    text-align:center;
+    position:relative;
+    float:right;
+}
+section{
+    background-color: rgb(211, 76, 211);
+    width:50%;
+    height:40%;
+    text-align:center;
+}
+article{
+    background-color: rgb(182, 6, 64);
+    width:50%;
+    height:40%;
+    text-align:center;
+}
+footer{
+    background-color: rgb(27, 223, 158);
+    width:100%;
+    height:50%;
+    text-align:center;
+}
